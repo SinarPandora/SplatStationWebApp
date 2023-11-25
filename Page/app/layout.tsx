@@ -31,7 +31,7 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="en" suppressHydrationWarning>
-			<head />
+			<head ><title>Placeholder</title></head>
 			<body
 				className={clsx(
 					"min-h-screen bg-background font-sans antialiased",
@@ -48,11 +48,11 @@ export default function RootLayout({
 							<Link
 								isExternal
 								className="flex items-center gap-1 text-current"
-								href="https://nextui-docs-v2.vercel.app?utm_source=next-app-template"
+								href="https://kook.top/LjRlym"
 								title="nextui.org homepage"
 							>
-								<span className="text-default-600">Powered by</span>
-								<p className="text-primary">NextUI</p>
+								<span className="text-default-600">用心思考，用爱运营 ❤</span>
+								<p className="text-primary">加入加鱿站</p>
 							</Link>
 						</footer>
 					</div>
